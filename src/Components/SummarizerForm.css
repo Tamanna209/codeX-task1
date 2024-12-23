@@ -1,0 +1,33 @@
+/* src/components/SummarizerForm.css */
+.summarizer-form {
+    text-align: center;
+    margin-top: 15%;
+    
+  }
+  
+  .url-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-bottom:2px solid #4caf50;
+    box-shadow: 2px 2px 5px #dddd;
+  }
+  
+  .submit-button {
+    margin-top: 10%;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 5%;
+    font-size: large;
+    box-shadow: 2px 2px 8px black;
+    transition: all ease 0.5s;
+  }
+  .submit-button:hover{
+    background-color: #1f6022;
+  }
+  

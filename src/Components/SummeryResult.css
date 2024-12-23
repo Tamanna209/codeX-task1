@@ -1,0 +1,13 @@
+/* src/components/SummaryResult.css */
+.summary-result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f4f4f9;
+    border: 1px solid #ddd;
+    text-align: center;
+    color: black;
+    width: 80%;
+   border-radius: 0.5rem;
+   box-shadow: 2px 2px 5px rgb(184, 182, 182);
+  }
+  
